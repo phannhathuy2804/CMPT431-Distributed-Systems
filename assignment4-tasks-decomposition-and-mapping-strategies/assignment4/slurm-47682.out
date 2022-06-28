@@ -1,0 +1,112 @@
+Using DOUBLE
+Number of Threads : 4
+Strategy : 1
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 49282100, 139155900, 0.030618, 0.004747, 0.000000, 3.624905
+1, 49282000, 139703600, 0.286815, 0.052980, 0.000000, 3.622844
+2, 49282000, 138032900, 0.021962, 0.010770, 0.000000, 3.620920
+3, 49282000, 136429000, 0.298240, 0.054243, 0.000000, 3.618873
+Sum of page ranks : 1966117.250000
+Time taken (in seconds) : 3.644429
+Using DOUBLE
+Number of Threads : 4
+Strategy : 2
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 48989300, 138330300, 0.048473, 0.004368, 0.000000, 3.601589
+1, 48800800, 138330400, 0.301246, 0.058767, 0.000000, 3.599537
+2, 49468700, 138330400, 0.003415, 0.009151, 0.000000, 3.597601
+3, 49869300, 138330300, 0.259802, 0.055179, 0.000000, 3.595638
+Sum of page ranks : 1966117.250000
+Time taken (in seconds) : 3.628273
+Using DOUBLE
+Number of Threads : 4
+Strategy : 3
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 49383431, 137659728, 0.007948, 0.006136, 19.310633, 71.621137
+1, 49380139, 137752713, 0.007737, 0.006013, 19.310822, 71.621091
+2, 49178889, 139011174, 0.007051, 0.006586, 19.063363, 71.621004
+3, 49185641, 138897785, 0.007027, 0.006634, 19.077766, 71.621006
+Sum of page ranks : 1966117.250000
+Time taken (in seconds) : 71.621924
+Using DOUBLE
+Number of Threads : 4
+Strategy : 4
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 53393554, 148072107, 0.044647, 0.006919, 0.002615, 4.171555
+1, 44864339, 128274072, 0.019930, 0.004608, 0.002124, 4.171515
+2, 54094587, 148580969, 0.046177, 0.006686, 0.002640, 4.171462
+3, 44775620, 128394252, 0.024692, 0.004528, 0.002244, 4.171444
+Sum of page ranks : 1966117.250000
+Time taken (in seconds) : 4.172436
+Using DOUBLE
+Number of Threads : 4
+Strategy : 1
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 49282100, 444126900, 0.07884, 0.17501, 0.00000, 6.86329
+1, 49282000, 442708200, 0.09386, 0.01002, 0.00000, 6.86128
+2, 49282000, 437560300, 0.00368, 0.00285, 0.00000, 6.85926
+3, 49282000, 427944000, 0.13500, 0.01051, 0.00000, 6.85726
+Sum of page ranks : 1966117.25000
+Time taken (in seconds) : 6.88428
+Using DOUBLE
+Number of Threads : 4
+Strategy : 2
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 48989300, 441505300, 0.57437, 0.85114, 0.00000, 7.86155
+1, 48800800, 438524200, 0.59081, 0.70761, 0.00000, 7.85950
+2, 49468700, 437766400, 0.00302, 0.00613, 0.00000, 7.85746
+3, 49869300, 434543500, 0.55732, 0.64048, 0.00000, 7.85539
+Sum of page ranks : 1966117.25000
+Time taken (in seconds) : 7.88775
+Using DOUBLE
+Number of Threads : 4
+Strategy : 3
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 49134592, 138816461, 0.00723, 0.00615, 17.71335, 100.83064
+1, 49459362, 137765060, 0.00753, 0.00642, 18.70193, 100.83062
+2, 49419019, 137985635, 0.00761, 0.00640, 18.78737, 100.83059
+3, 49115127, 138754244, 0.00714, 0.00604, 17.72962, 100.83054
+Sum of page ranks : 1966117.25000
+Time taken (in seconds) : 100.83148
+Using DOUBLE
+Number of Threads : 4
+Strategy : 4
+Granularity : 10000
+Number of Iterations: 100
+Reading graph
+Created graph
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 48455124, 137288700, 0.03087, 0.01876, 0.00199, 7.74288
+1, 47511777, 131604767, 0.03698, 0.02646, 0.00207, 7.74285
+2, 51071240, 144517624, 0.03085, 0.03125, 0.00206, 7.74275
+3, 50089959, 139910309, 0.03264, 0.03473, 0.00201, 7.74277
+Sum of page ranks : 1966117.25000
+Time taken (in seconds) : 7.74372

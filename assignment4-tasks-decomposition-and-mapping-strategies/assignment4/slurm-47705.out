@@ -1,0 +1,2 @@
+slurmstepd-cs-cloud-01: error: execve(): /home/nhathuyp/assignment3/asm3/./page_rank_push_parallel_atomic: No such file or directory
+srun: error: cs-cloud-01: task 0: Exited with exit code 2

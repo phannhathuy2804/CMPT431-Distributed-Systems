@@ -1,0 +1,36 @@
+Number of points : 1000000000
+A : 3.2
+B : 7.1
+Random Seed : 37
+rank, points_generated, curve_points, time_taken
+0, 250000000, 74830339, 10.02
+1, 250000000, 74827657, 10.017
+2, 250000000, 74831320, 10.02
+3, 250000000, 74829396, 10.018
+Total points generated : 1000000000
+Total points in curve : 299318712
+Area : 1.197274848
+Time taken (in seconds) : 10.02
+Number of processes : 1
+Grid Size : 1000x1000
+Cx : 0.1
+Cy : 0.15
+Temperature in the middle of grid : 600
+Time Steps : 4000
+Initializing Temperature Array...
+rank, start_column, end_column, time_taken
+0, 0, 249, 17.053
+1, 250, 499, 17.053
+2, 500, 749, 17.053
+3, 750, 999, 17.053
+Temp[0,0]=0
+Temp[166,166]=6.0966e-13
+Temp[249,249]=0.006173
+Temp[332,332]=138.69
+Temp[498,498]=600
+Temp[499,499]=600
+Temp[664,664]=161.75
+Temp[749,749]=0.0075003
+Temp[830,830]=1.7838e-12
+Temp[999,999]=0
+Time taken (in seconds) : 17.056
